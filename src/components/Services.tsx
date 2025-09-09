@@ -28,7 +28,7 @@ const Services = () => {
   icon: Car,
   title: 'Post-Construction Cleanup',
   description: 'Specialized cleaning for newly constructed or renovated spaces, removing dust, debris, and construction residue.',
-  image: 'https://res.cloudinary.com/dk3zwqnsq/image/upload/v1756795718/post_construction_lunuiz.jpg',  // ✅ correct
+  image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757417964/Tired_of_the_cleaning_chaos_at_home__Say_hpn8sx.jpg',  // ✅ correct
   features: ['Dust & Debris Removal', 'Window Cleaning', 'Final Touch-ups']
 }
   ];
