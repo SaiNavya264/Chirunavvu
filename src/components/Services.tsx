@@ -21,14 +21,14 @@ const Services = () => {
       icon: Sparkles,
       title: 'Deep Cleaning',
       description: 'Intensive cleaning service that reaches every corner, perfect for seasonal cleaning or special occasions.',
-      image: 'https://res.cloudinary.com/dk3zwqnsq/image/upload/v1756795718/deep_cleaning_rachpi.jpg',
+      image:'https://res.cloudinary.com/dculx5lzg/image/upload/v1757419781/WhatsApp_Image_2025-09-09_at_5.36.52_PM_xclbfa.jpg',
       features: ['Detailed Surface Cleaning', 'Appliance Interior Cleaning', 'Grout & Tile Restoration']
     },
     {
   icon: Car,
   title: 'Post-Construction Cleanup',
   description: 'Specialized cleaning for newly constructed or renovated spaces, removing dust, debris, and construction residue.',
-  image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757417964/Tired_of_the_cleaning_chaos_at_home__Say_hpn8sx.jpg',  // ✅ correct
+  image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757419884/WhatsApp_Image_2025-09-09_at_5.36.52_PM_1_mynuzg.jpg',  // ✅ correct
   features: ['Dust & Debris Removal', 'Window Cleaning', 'Final Touch-ups']
 }
   ];
