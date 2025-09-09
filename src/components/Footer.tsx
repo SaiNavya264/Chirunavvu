@@ -22,13 +22,13 @@ const Footer = () => {
               Your trusted partner for a cleaner, healthier environment.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="bg-gray-800 p-3 rounded-lg hover:bg-gray-700 transition-colors">
+              <a href="https://www.facebook.com/TwinclesDigital/" className="bg-gray-800 p-3 rounded-lg hover:bg-gray-700 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" className="bg-gray-800 p-3 rounded-lg hover:bg-gray-700 transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="bg-gray-800 p-3 rounded-lg hover:bg-gray-700 transition-colors">
+              <a href="https://www.instagram.com/twincles__digital/" className="bg-gray-800 p-3 rounded-lg hover:bg-gray-700 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
             </div>
