@@ -7,14 +7,14 @@ const Services = () => {
       icon: Home,
       title: 'Residential Cleaning',
       description: 'Complete home cleaning services including deep cleaning, regular maintenance, and move-in/move-out cleaning.',
-      image: 'https://images.pexels.com/photos/4239119/pexels-photo-4239119.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757413670/WhatsApp_Image_2025-09-02_at_12.33.07_PM_hexehd.jpg',
       features: ['Kitchen & Bathroom Deep Clean', 'Dusting & Vacuuming', 'Floor Mopping & Sanitizing']
     },
     {
       icon: Building2,
       title: 'Commercial Cleaning',
       description: 'Professional office and commercial space cleaning to maintain a productive and healthy work environment.',
-      image: 'https://images.pexels.com/photos/4239013/pexels-photo-4239013.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757413784/WhatsApp_Image_2025-09-02_at_12.33.08_PM_oixsl2.jpg',
       features: ['Office Spaces', 'Retail Stores', 'Medical Facilities']
     },
     {
