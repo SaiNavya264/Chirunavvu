@@ -74,7 +74,7 @@ const Contact = () => {
                   <input 
                     type="text" 
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="John"
+                    placeholder="Navya"
                   />
                 </div>
                 <div>
@@ -82,7 +82,7 @@ const Contact = () => {
                   <input 
                     type="text" 
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="Doe"
+                    placeholder="Sai"
                   />
                 </div>
               </div>
@@ -92,7 +92,7 @@ const Contact = () => {
                 <input 
                   type="tel" 
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                  placeholder="(555) 123-4567"
+                  placeholder="+91 9391911699"
                 />
               </div>
               
