@@ -11,7 +11,7 @@ const Header = () => {
             <img
               src="https://res.cloudinary.com/dk3zwqnsq/image/upload/v1756795718/Page_logo_baij6g.png"   
               alt="Logo"
-              className="h-50 w-auto sm:h-55 md:h-50 lg:h-55" 
+              className="h-10 w-auto sm:h-12 md:h-14 lg:h-16" 
             />
           </div>
 
