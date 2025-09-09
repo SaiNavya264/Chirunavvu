@@ -74,10 +74,7 @@ const Services = () => {
                   ))}
                 </div>
                 
-                <button className="flex items-center space-x-2 text-blue-600 font-semibold hover:text-blue-700 transition-colors group">
-                  <span>Learn More</span>
-                  <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                </button>
+               
               </div>
             </div>
           ))}
