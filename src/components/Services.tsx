@@ -25,7 +25,7 @@ const Services = () => {
       features: ['Detailed Surface Cleaning', 'Appliance Interior Cleaning', 'Grout & Tile Restoration']
     },
     {
-  icon: Car,
+  icon: Construction,
   title: 'Post-Construction Cleanup',
   description: 'Specialized cleaning for newly constructed or renovated spaces, removing dust, debris, and construction residue.',
   image: 'https://res.cloudinary.com/dculx5lzg/image/upload/v1757419884/WhatsApp_Image_2025-09-09_at_5.36.52_PM_1_mynuzg.jpg',  // ✅ correct
